@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.DS_Store
+
+# build artifacts
+freebuff-sites-build/
+tsconfig.tsbuildinfo
